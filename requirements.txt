@@ -6,3 +6,7 @@ uvicorn
 python-multipart
 torchaudio
 datasets==2.18.0
+addict==2.4.0
+pillow==11.0.0
+simplejson==3.19.3
+sortedcontainers==2.4.0
